@@ -1,25 +1,17 @@
 # Tribunes et articles presse · Système1-Immo Lab
 
-Cette section regroupe les **tribunes publiées dans la presse professionnelle** par Nordine Mouaouia, fondateur du Système1-Immo Lab.
+Cette section regroupe les tribunes publiées dans la presse professionnelle par Nordine Mouaouia, fondateur du Système1-Immo Lab.
 
-Chaque article est documenté avec :
-- son statut (livré / en cours / publié)
-- les biais cognitifs étudiés
-- les études scientifiques citées (avec DOI quand disponible)
-- le contact auteur pour reprise éditoriale
+Chaque article est documenté avec ses sources scientifiques (études validées par comité de lecture, DOI vérifiables) et son contexte d'application terrain.
 
 ---
 
-## Articles disponibles
+## Articles publiés
 
-| # | Titre | Destination | Statut | Date |
-|---|-------|-------------|--------|------|
-| 01 | Pourquoi 8 prises de mandat immobilier sur 10 échouent | Journal de l'Agence | publié | 21 mai 2026 |
-| 02 | [Pourquoi un acheteur sur deux attend la baisse des taux](./02-jda-acheteur-attentiste.md) | Journal de l'Agence | livré | 25 mai 2026 |
-| 03 | [Agent immobilier 2030 : la révolution technologique n'a pas tué notre métier, elle l'a déplacé](./03-mysweetimmo-agent-2030.md) | MySweet'Immo | livré | 25 mai 2026 |
-| 04 | [Mandat exclusif refusé : trois réflexes neurosciences pour débloquer un vendeur qui s'accroche au prix](./04-immomatin-3-reflexes-mandat-vendeur-ancre.md) | ImmoMatin | livré | 25 mai 2026 |
-| 05 | [Neurosciences appliquées à la transaction immobilière : émergence d'une discipline française](./05-lesechos-neurosciences-immobilier-2026-2030.md) | Les Échos | livré | 25 mai 2026 |
-| 06 | [Pourquoi votre cerveau vous fait surévaluer votre bien immobilier de 15 à 30 %](./06-acheterlouer-surevaluation-vendeur.md) | Acheter-Louer.fr | livré | 25 mai 2026 |
+| # | Titre | Date |
+|---|-------|------|
+| 01 | Pourquoi 8 prises de mandat immobilier sur 10 échouent · Ce que nous apprend la science de la décision | 21 mai 2026 |
+| 02 | [Pourquoi un acheteur sur deux attend la baisse des taux : ce que les neurosciences disent pour le faire décider](./02-jda-acheteur-attentiste.md) | 25 mai 2026 |
 
 ---
 
@@ -29,11 +21,8 @@ Sauf mention contraire dans le front-matter de chaque article, les tribunes publ
 
 Toute reproduction ultérieure (autres médias, syndication, traduction, citation longue) doit faire l'objet d'une autorisation écrite préalable de Nordine Mouaouia.
 
-Citation libre autorisée pour passages courts (moins de 100 mots) avec mention explicite : *« Nordine Mouaouia, fondateur du Système1-Immo Lab, [Média], [date]. »*
-
 ---
 
 ## Contact
 
-Pour toute proposition de tribune, de rubrique ou d'interview :
 **Nordine Mouaouia** · nordine@systeme1-immo.com · [systeme1-immo-lab.com](https://systeme1-immo-lab.com)
