@@ -43,7 +43,7 @@ Une observation interne menée par Système1-Immo Lab sur 72 dossiers acquéreur
 
 Ces trois mécanismes sont documentés depuis 40 ans par la science de la décision. Ils s'appellent biais du statu quo, aversion à la perte, et aversion au regret. Pris isolément, ils sont rationnels. Combinés, ils produisent une paralysie qui peut durer des années.
 
-Pour comprendre ce qui se joue, gardez en tête une image simple : l'acheteur attentiste, c'est celui qui attend les soldes de janvier pour acheter un manteau d'hiver. Il économisera peut-être 30 % le jour des soldes. Mais entre-temps, il aura passé trois mois à grelotter. Le grelottement, c'est le loyer qu'il continue à payer chaque mois. Et il ne le voit pas, parce qu'il y est habitué.
+Pour comprendre ce qui se joue, gardez en tête une image simple : l'acheteur attentiste, c'est celui qui attend les soldes de janvier pour acheter un manteau d'hiver. Il économisera peut-être 30 % le jour des soldes. Mais entre-temps, il aura passé trois mois à grelotter. Le froid qu'il subit, c'est le loyer qu'il continue à payer chaque mois. Et il ne le voit pas, parce qu'il y est habitué.
 
 ## Premier mécanisme : le biais du statu quo
 
@@ -59,7 +59,7 @@ Transposez : votre acquéreur paie un loyer aujourd'hui. C'est son état actuel.
 
 ## Deuxième mécanisme : l'aversion à la perte
 
-Quand votre acheteur envisage d'acheter aujourd'hui, son cerveau ne calcule pas le gain potentiel d'un beau bien. Il calcule la perte potentielle si les taux baissent après son achat. Et cette perte potentielle pèse environ deux fois plus lourd qu'un gain équivalent.
+Quand votre acheteur envisage d'acheter aujourd'hui, son cerveau ne calcule pas le gain potentiel d'un beau bien. Il calcule la perte potentielle si les taux baissent après son achat. Et cette perte potentielle pèse environ deux fois plus qu'un gain équivalent dans la balance émotionnelle.
 
 Kahneman et Tversky ont posé en 1979 dans la revue *Econometrica* l'un des résultats les plus solides de toute la psychologie de la décision : perdre 100 euros déclenche dans le cerveau une réaction émotionnelle 2 à 2,5 fois plus forte que gagner 100 euros. C'est ce qu'on appelle l'aversion à la perte. Elle est ancrée dans des circuits cérébraux primitifs.
 
@@ -79,13 +79,13 @@ Acheter maintenant et voir les taux baisser dans six mois, c'est s'exposer à un
 
 ## Protocole en quatre étapes pour débloquer sans pression
 
-La bonne nouvelle, c'est que ces trois mécanismes sont prévisibles. Donc contrables. Le protocole ci-dessous est issu de l'observation de neuf dossiers acquéreurs débloqués sur des situations initialement gelées, entre février et avril 2026.
+La bonne nouvelle, c'est que ces trois mécanismes sont prévisibles. Donc maîtrisables. Le protocole ci-dessous est issu de l'observation de neuf dossiers acquéreurs débloqués sur des situations initialement gelées, entre février et avril 2026.
 
 ### Étape 1 – Sortir le statu quo de sa zone invisible
 
 Le statu quo gagne tant qu'il reste invisible. Pour le combattre, il faut le rendre coûteux et visible.
 
-> Formulation type : « Vous payez aujourd'hui 700 euros de loyer qui ne reviendront jamais. C'est votre situation actuelle. Si vous restez en location encore six mois, ce sont 4 200 euros qui partent à fonds perdu. Si vous restez un an, c'est 8 400 euros. Vous l'aviez chiffré ainsi ? »
+> Formulation type : « Vous payez aujourd'hui 700 euros de loyer qui ne reviendront jamais. C'est votre situation actuelle. Si vous restez en location encore six mois, ce sont 4 200 euros qui partent à fonds perdu. Si vous restez un an, c'est 8 400 euros. Aviez-vous chiffré cela ? »
 
 Vous venez de transformer l'inaction en coût certain. Le statu quo n'est plus une option gratuite. Le cerveau peut désormais comparer les deux options à leur vrai poids.
 
@@ -93,7 +93,7 @@ Vous venez de transformer l'inaction en coût certain. Le statu quo n'est plus u
 
 Ne portez jamais la décision à la place de votre client. Présentez-lui les données et laissez-le conclure.
 
-> Formulation type : « Voici les anticipations BCE publiées la semaine dernière. Voici les projections des trois analystes les plus suivis du marché français. Voici l'évolution des taux moyens observée sur les 12 derniers mois. Regardons ça ensemble cinq minutes, dites-moi ce que vous en lisez. »
+> Formulation type : « Voici les anticipations de la BCE publiées la semaine dernière. Voici les projections des trois analystes les plus suivis du marché français. Voici l'évolution des taux moyens observée sur les 12 derniers mois. Regardons cela ensemble cinq minutes, dites-moi ce que vous en lisez. »
 
 Votre client devient l'analyste, vous devenez le copilote. Le poids du regret futur s'allège, parce qu'il aura pris la décision à partir de données objectives, pas sur votre conseil seul.
 
