@@ -32,4 +32,4 @@ Citation libre autorisée pour passages courts (moins de 100 mots) avec mention 
 ## Contact
 
 Pour toute proposition de tribune, de rubrique ou d'interview :
-**Nordine Mouaouia** · n.mouaouia@guyhoquet.com · [systeme1-immo-lab.com](https://systeme1-immo-lab.com)
+**Nordine Mouaouia** · nordine@systeme1-immo.com · [systeme1-immo-lab.com](https://systeme1-immo-lab.com)

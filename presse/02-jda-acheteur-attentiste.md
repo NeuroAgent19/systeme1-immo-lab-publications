@@ -16,7 +16,7 @@ etudes_citees:
   - "Kahneman & Tversky (1979), Prospect Theory, Econometrica"
   - "Loomes & Sugden (1982), Regret Theory, The Economic Journal"
   - "Cialdini (1984), Influence: The Psychology of Persuasion"
-contact_auteur: "n.mouaouia@guyhoquet.com"
+contact_auteur: "nordine@systeme1-immo.com"
 site: "https://systeme1-immo-lab.com"
 licence: "Cession non exclusive Journal de l'Agence pour publication. Reproduction soumise à autorisation de l'auteur."
 ---
@@ -149,6 +149,6 @@ La prochaine fois que vous entendez « on attend les taux », testez juste l'ét
 - Fondateur du Système1-Immo Lab, structure de recherche appliquée aux biais cognitifs en immobilier.
 
 🌐 [www.systeme1-immo-lab.com](https://systeme1-immo-lab.com)
-📧 n.mouaouia@guyhoquet.com
+📧 nordine@systeme1-immo.com
 🔬 [ORCID 0009-0000-8238-2652](https://orcid.org/0009-0000-8238-2652)
 💼 [LinkedIn](https://www.linkedin.com/in/nordine-mouaouia/)
