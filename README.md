@@ -101,7 +101,7 @@ Pour les agents solo qui veulent monter en compétence neurosciences sur 10 chap
 ## Contact
 
 - **Email** : [nordine@systeme1-immo.com](mailto:nordine@systeme1-immo.com)
-- **LinkedIn** : [linkedin.com/in/nordine-mouaouia](https://www.linkedin.com/in/nordine-mouaouia/)
+- **LinkedIn** : [linkedin.com/in/nordine-mouaouia-neurosciences-ia-immobilier](https://www.linkedin.com/in/nordine-mouaouia-neurosciences-ia-immobilier/)
 - **À propos du fondateur** : [systeme1-immo-lab.com/about/nordine](https://systeme1-immo-lab.com/about/nordine)
 
 ---

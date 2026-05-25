@@ -151,4 +151,4 @@ La prochaine fois que vous entendez « on attend les taux », testez juste l'ét
 🌐 [www.systeme1-immo-lab.com](https://systeme1-immo-lab.com)
 📧 nordine@systeme1-immo.com
 🔬 [ORCID 0009-0000-8238-2652](https://orcid.org/0009-0000-8238-2652)
-💼 [LinkedIn](https://www.linkedin.com/in/nordine-mouaouia/)
+💼 [LinkedIn](https://www.linkedin.com/in/nordine-mouaouia-neurosciences-ia-immobilier/)
